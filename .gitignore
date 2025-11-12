@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 W5AIR/
+W5_PIE/
 __pycache__/
 *.py[codz]
 *$py.class
